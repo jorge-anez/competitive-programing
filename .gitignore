@@ -3,3 +3,5 @@ build/**
 **/haskell/*.o
 **/haskell/*.hi
 **/haskell/*.exe
+
+**/*.class
