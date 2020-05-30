@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Set;
 import java.util.TreeSet;
- class Main{
+public class Main{
 	
 	
 	public static void main(String arg[]){
